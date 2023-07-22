@@ -1,7 +1,6 @@
 <p>
   Hey there, I'm Charlie Perry! Thanks for visiting my GitHub profile page! If you're interested in contacting me you can visit my website or message me on relevant social media platforms!
-  I'm currently studying Computer Science, Mathematics and Physics. I'm passionate about solving problems and using my own knowledge to create something that people will enjoy. As you can see
-  by my profile picture I absolutely love the Office :)
+  I'm currently studying Computer Science, Mathematics and Physics. I'm passionate about solving problems and using my own knowledge to create something that people will enjoy.
 </p>
 
 
