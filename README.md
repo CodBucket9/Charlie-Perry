@@ -1,6 +1,7 @@
-<h>
+<p>
+  Hey there, I'm Charlie Perry! Thanks for visiting.
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Fullstack Developer;Java,+Kotlin,+Python&center=true&width=300&height=50"></a>
-</h>
+</p>
 
 
 ## 🌐 Social Media:
