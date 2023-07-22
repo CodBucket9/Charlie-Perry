@@ -7,6 +7,6 @@
 <p align="center">I am deeply passionate about technology and how it can be leveraged to solve real-world problems. At a young age, I discovered my interest in coding, and since then, I have been dedicated to learning and honing my skills as a programmer.</p>
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=charlie-perry&show_icons=true&theme=dracula">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlie-perry&show_icons=true&locale=en&layout=compact" alt="charlie-perry" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charlie-perry&show_icons=true&locale=en" alt="charlie-perry" /></p>
