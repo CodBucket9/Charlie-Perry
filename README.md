@@ -1,6 +1,6 @@
 <p>
-  Hey there, I'm Charlie Perry! Thanks for visiting.
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Fullstack Developer;Java,+Kotlin,+Python&center=true&width=300&height=50"></a>
+  Hey there, I'm Charlie Perry! Thanks for visiting my GitHub profile page! If you're interested in contacting me you can visit my website or message me on relevant social media platforms!
+  I'm currently studying Computer Science, Mathematics and Physics. I'm passionate about solving problems and using my own knowledge to create something that people will enjoy.
 </p>
 
 
